@@ -1,0 +1,205 @@
+	
+ 
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+<title>Fujinet Systems JSC</title>
+<meta name="keywords" CONTENT="thietkeweb"/>
+<meta name="description" CONTENT="thietkeweb"/>
+<meta name="robots" content="index, follow"/>
+<meta name="author" content="www.thietkeweb.com | TRUST.vn"/>
+<meta property="fb:app_id" content="1305829822896074" />
+<link rel="SHORTCUT ICON" href="http://www.fuji-cocktail.vn/favicon.ico" type="image/x-icon"/>
+<link rel="icon" href="http://www.fuji-cocktail.vn/favicon.ico" type="image/gif"/>
+<link href="/js/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<link href="/js/slick/slick.css" rel="stylesheet" type="text/css" />
+<link href="/js/menumobile/menumobile.css" rel="stylesheet" type="text/css" />
+<link href="/js/fancybox3/jquery.fancybox.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="/skins/default/style/font/fontawesome5/css/all.min.css" rel="stylesheet" type="text/css" />
+<link href="/skins/default/style/screen.css" rel="stylesheet" type="text/css" />
+<script language="javascript"> var ROOT="http://www.fuji-cocktail.vn/"; var ROOT_MOD="/"; var DIR_IMAGE="/skins/default/images"; var cmd="vnTRUST"; var lang="vn"; var mem_id=0; var js_lang=new Array(); js_lang['announce']="Thông báo"; js_lang['error']="Báo lỗi";</script>
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="/js/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/slick/slick.js"></script>
+<script type="text/javascript" src="/js/menumobile/menumobile.js"></script>
+<script type="text/javascript" src="/js/nicescroll/jquery.nicescroll.js"></script>
+<script type="text/javascript" src="/js/fancybox3/jquery.fancybox.js"></script>
+<script type="text/javascript" src="/js/core.js?v=6.0"></script>
+<script type="text/javascript" src="/js/style.js"></script>
+<script type="text/javascript" src="/js/mnfixed/mnfixed.js"></script>
+
+</head>
+<body>
+<div id="vnt-wrapper">
+    <div id="vnt-container">
+        <div id="vnt-header">
+            <div class="topHead hidden-sm hidden-xs">
+                <div class="df">
+                    <div class="title">Chào mừng các bạn đến với FUJINET</div>
+                    <div class="linkTop"><span class="fa-phone">(028) 3847 7000</span></div>
+                    <div class="linkTop"><span class="fa-envelope">info.fc@fujinet.net</span></div>
+                </div>
+                <div class="socialTop">
+                    <ul>
+                        <li><a href="http://facebook.com/phanmemfujinet/" target="_blank" title="Facebook"><i class="fab fa-facebook-square"></i></a></li><li><a href="http://plus.google.com" target="_blank" title="Google"><i class="fab fa-google-plus-square"></i></a></li><li><a href="http://twitter.com" target="_blank" title="Twitter"><i class="fab fa-twitter-square"></i></a></li><li><a href="http://youtube.com" target="_blank" title="Youtube"><i class="fab fa-youtube-square"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="mainHead">
+                <div class="logo">
+                    <a href='/trang-chu.html' target='_self' title='Erp Fujinet'><img class='hidden-sm hidden-xs' src='http://www.fuji-cocktail.vn/vnt_upload/weblink/logo.svg' alt='Erp Fujinet'/><img class='hidden-lg hidden-md' src="http://www.fuji-cocktail.vn/vnt_upload/weblink/logo-sm.svg" Erp Fujinet/></a>
+                </div>
+                <div class="header-tools">
+                    <div class="menuTop hidden-sm hidden-xs">
+                        <ul><li ><a href="/trang-chu.html" target="_self">Trang chủ</a></li><li ><a href="/gioi-thieu.html" target="_self">Giới thiệu</a><ul><li><a href="/gioi-thieu-cong-ty.html" target='_self'>Giới thiệu công ty</a></li>
+<li><a href="/gioi-thieu-doi-tac.html" target='_self'>Giới thiệu đối tác</a></li>
+</ul></li><li ><a href="/san-pham.html" target="_self">Sản phẩm</a><ul><li><a href="/quan-tri-doanh-nghiep.html" target='_self'>Quản trị doanh nghiệp</a></li>
+<li><a href="/tai-chinh-ke-toan.html" target='_self'>Tài chính - kế toán</a></li>
+<li><a href="/san-pham-di-dong.html" target='_self'>Sản phẩm di động</a></li>
+<li><a href="/san-pham-ai.html" target='_self'>Sản phẩm AI</a></li>
+</ul></li><li ><a href="/khach-hang.html" target="_self">Khách hàng</a></li><li ><a href="/video.html" target="_self">Video</a></li><li ><a href="/tin-tuc.html" target="_self">Tin tức</a></li><li ><a href="/faqs.html" target="_self">Faq</a></li><li ><a href="/lien-he.html" target="_self">Liên hệ</a></li></ul>
+                    </div>
+                    <div class="searchTop hidden-sm hidden-xs">
+                        <form name="formSearch" method="post" action="/tim-kiem.html" onSubmit="return check_search(this);" class="box_search">
+                            <input name="keyword" type="text" class="text_search" value="" placeholder="Nhập từ khóa..."/>
+                            <button name="btn-search" type="submit" value="1"><i class="fa fa-search"></i></button>
+                            <input name="do_search" value="1" type="hidden" />
+                        </form>
+                    </div>
+                    <div class="menu_mobile hidden-lg hidden-md">
+                        <div class="icon"><span class="style_icon"></span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="vnt-content">
+            <p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><span style="color: rgb(255, 0, 0);"><span style="font-size: 20px;"><strong>NỘI DUNG TRANG KHÔNG TÌM </strong></span></span></p>
+
+<p style="text-align: center;"><span style="color: rgb(255, 0, 0);">THẤY VUI LÒNG KIỂM TRA LẠI</span></p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;">&nbsp;</p>
+        </div>
+        <div id="vnt-footer">
+            <div class="wrapper">
+                <div class="mainFoot">
+                    <div class="boxBot">
+                        <div class="title">FujiNet Systems JSC</div><div class="content"><div class="addressFoot"><div class="be fa-map-marker">Lầu 9, Khu C, Toà nhà Waseco, Số 10 đường Phổ Quang, Phường 2, Quận Tân Bình</div><div class="be fa-phone"><a href="tel:(028) 3847 7000">(028) 3847 7000</a></div><div class="be fa-fax"><a href="tel:(028) 3847 5000">(028) 3847 5000</a></div><div class="be fa-envelope"><a href="mailto:info.fc@fujinet.net">info.fc@fujinet.net</a></div></div></div>
+                    </div>
+                    <div class="boxBot">
+                        <div class="title">HỖ TRỢ KHÁCH HÀNG</div>
+                        <div class="content">
+                            <div class="botLink">
+                                <ul><li ><a href="/bao-mat-thong-tin.html" target="_self">Bảo mật thông tin</a></li><li ><a href="/chinh-sach-bao-hanh.html" target="_self">Chính sách bảo hành</a></li><li ><a href="/huong-dan-mua-hang.html" target="_self">Hướng dẫn mua hàng</a></li></ul>
+                            </div>
+                            <div class="congthuongImg"><a href="http://www.online.gov.vn" title="Banner đăng ký bộ công thương" target="_blank"><img src="http://www.fuji-cocktail.vn/vnt_upload/weblink/congthuong.png" alt="Banner đăng ký bộ công thương"/></a></div>
+                        </div>
+                    </div>
+                    <div class="boxBot">
+                        <div class="title">Chứng chỉ - Chứng nhận</div>
+                        <div class="content">
+                            <div class="cerFoot"><a href="https://www.google.com/" title="Chứng chỉ - chứng nhận" target="_blank"><img src="http://www.fuji-cocktail.vn/vnt_upload/weblink/cer-foot.png" alt="Chứng chỉ - chứng nhận"/></a></div>
+                            <div class="socialFoot">
+                                <ul>
+                                    <li><a href="http://facebook.com/phanmemfujinet/" target="_blank" title="Facebook"><i class="fab fa-facebook-square"></i></a></li><li><a href="http://plus.google.com" target="_blank" title="Google"><i class="fab fa-google-plus-square"></i></a></li><li><a href="http://twitter.com" target="_blank" title="Twitter"><i class="fab fa-twitter-square"></i></a></li><li><a href="http://youtube.com" target="_blank" title="Youtube"><i class="fab fa-youtube-square"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <a href="javascript:void(0)" onclick="jQuery('html,body').animate({scrollTop: 0},1000);" class="go_top" style="">go top</a>
+                </div>
+                <div class="botFoot">
+                    <div class="copyright">© FUJINET SYSTEMS JOINSTOCK COMPANY (FUJINET SYSTEMS JSC). All rights reserved</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="menu_mobile">
+    <div class="divmm">
+        <div class="mmContent">
+            <div class="mmMenu">
+                <ul class="mmMain"><li ><a href="/trang-chu.html" target="_self">Trang chủ</a></li><li ><a href="/gioi-thieu.html" target="_self">Giới thiệu</a><ul><li><a href="/gioi-thieu-cong-ty.html" target='_self'>Giới thiệu công ty</a></li>
+<li><a href="/gioi-thieu-doi-tac.html" target='_self'>Giới thiệu đối tác</a></li>
+</ul></li><li ><a href="/san-pham.html" target="_self">Sản phẩm</a><ul><li><a href="/quan-tri-doanh-nghiep.html" target='_self'>Quản trị doanh nghiệp</a></li>
+<li><a href="/tai-chinh-ke-toan.html" target='_self'>Tài chính - kế toán</a></li>
+<li><a href="/san-pham-di-dong.html" target='_self'>Sản phẩm di động</a></li>
+<li><a href="/san-pham-ai.html" target='_self'>Sản phẩm AI</a></li>
+</ul></li><li ><a href="/khach-hang.html" target="_self">Khách hàng</a></li><li ><a href="/video.html" target="_self">Video</a></li><li ><a href="/tin-tuc.html" target="_self">Tin tức</a></li><li ><a href="/faqs.html" target="_self">Faq</a></li><li ><a href="/lien-he.html" target="_self">Liên hệ</a></li></ul>
+                <div class="mmSearch">
+                    <form name="formSearch" method="post" action="/tim-kiem.html" onSubmit="return check_search(this);">
+                        <input name="keyword" type="text" value="" placeholder="Nhập từ khóa..."/>
+                        <button name="btn-search" type="submit" value="1"><i class="fa fa-search"></i></button>
+                        <input name="do_search" value="1" type="hidden">
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="divmmbg"></div>
+    </div>
+</div>
+<div id="vnt-hotline-fixed">
+    <a data-src="/san-pham/ajax/support.html" href="javascript:;"><img src="/skins/default/images/i-hotline.png" alt="Hotline"/></a>
+</div>
+<!-- Load Facebook SDK for JavaScript -->
+      <div id="fb-root"></div>
+      <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            xfbml            : true,
+            version          : 'v4.0'
+          });
+        };
+
+        (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+
+      <!-- Your customer chat code -->
+      <div class="fb-customerchat"
+        attribution=setup_tool
+        page_id="105947347455627"
+  logged_in_greeting="Xin chào, chúng tôi có thể hỗ trợ gì cho bạn?"
+  logged_out_greeting="Xin chào, chúng tôi có thể hỗ trợ gì cho bạn?">
+      </div>
+<script type="text/javascript">
+    function check_search(f){
+        var key_default = "Nhập từ khóa..." ;
+        var keyword = f.keyword.value;      
+        var key_len = f.keyword.value.length;
+        if( (keyword==key_default) || (keyword=='') ){
+            alert("Vui lòng nhập từ khóa");
+            f.keyword.focus();
+            return false;
+        }
+        if( key_len<2 ){
+            alert("Từ khóa tới thiểu là 2 ký tự");
+            f.keyword.focus();
+            return false;
+        } 
+        return true;
+    }
+</script>
+</body>
+</html>
