@@ -20,7 +20,7 @@ def main(args):
   #Create url to search images
   query= query.split()
   query='+'.join(query)
-  url="https://www.google.co.in/search?q="+query+"&source=lnms&tbm=isch"
+  url="https://www.google.co.in/search?q="+query+"&source=lnms&tbm=isch&tbs=sur:fc"
   
   session = HTMLSession()
   res = session.get(url)
