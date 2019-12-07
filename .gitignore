@@ -1,1 +1,4 @@
 .ipynb_checkpoints/
+dataset/*
+!dataset/collect_data.ipynb
+!dataset/download.sh
