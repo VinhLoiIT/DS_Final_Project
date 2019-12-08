@@ -10,3 +10,7 @@ Final Project of Data Science course
 - `./download.sh`
 
 Or run `collect_data.ipynb` step by step in Jupyter Notebook
+
+# Install
+Using `pip` or `conda`
+- `pip install -U scikit-learn scikit-image pandas numpy matplotlib`
