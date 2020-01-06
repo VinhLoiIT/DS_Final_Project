@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 dataset/*
+images/*
 !dataset/collect_data.ipynb
 !dataset/collect_data_v2.ipynb
 !dataset/pre_process_data.ipynb
