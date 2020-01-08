@@ -6,8 +6,8 @@ Final Project of Data Science course
 - MSSV: 1612362 - Trần Văn Lượn
 
 # Download our data
-- Run `collect_data.ipynb` step by step in Jupyter Notebook
-- Labeled dataset available [here](https://drive.google.com/drive/folders/19eW71WcsuZh6hOWJSHwzwJkHTRLoTSPs?usp=sharing)
+- Run `dataset/collect_data.ipynb` step by step in Jupyter Notebook
+- Our labeled dataset available [here](https://drive.google.com/drive/folders/19eW71WcsuZh6hOWJSHwzwJkHTRLoTSPs?usp=sharing)
 
 # Slide
 [Here](https://docs.google.com/presentation/d/1cBA5hRVaBxNd_EMbWS3WyOQJ4N65No6Quk-KrekdUNA/edit?usp=sharing)
@@ -27,10 +27,8 @@ dataset/collect_data.ipynb
 images/
 pre_process_data.ipynb
 classification.ipynb
-classification_augmentation.ipynb
 README.md
 ```
 
 - Open `pre_process_data.ipynb` and Run All Cells
-- Open `classification.ipynb` and Run All Cells to run on original data
-- Open `classification_augmentation.ipynb` and Run All Cells to run on augmentated data
+- Open `classification.ipynb` and Run All Cells
