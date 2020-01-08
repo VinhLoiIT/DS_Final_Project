@@ -24,9 +24,8 @@ dataset/
 dataset/images/
 dataset/labels/
 dataset/collect_data.ipynb
-dataset/collect_data_v2.ipynb
-dataset/pre_process_data.ipynb
 images/
+pre_process_data.ipynb
 classification.ipynb
 classification_augmentation.ipynb
 README.md
